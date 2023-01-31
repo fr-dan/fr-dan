@@ -16,5 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 📫 How to reach me first name . last name @forestresearch.gov.uk
 
-![](https://raw.githubusercontent.com/fr-dan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fr-dan/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr-dan&theme=dark&show_icons=true)

@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 👀 I’m working on R packages for promoting reproducibility in generating Official Statistics
 
 📫 How to reach me first name . last name @forestresearch.gov.uk
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr-dan)](https://github.com/fr-dan/github-readme-stats)
